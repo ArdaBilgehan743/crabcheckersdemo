@@ -1,0 +1,2 @@
+"""Crab Checkers package."""
+
